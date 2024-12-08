@@ -54,9 +54,5 @@ This project focuses on optimizing and deploying a real-time AI model for Licens
 
 ---
 
-### Notes
-- Ensure all dependencies are installed on Colab before running the notebook.
-- Run the **first cell** to clone the original LPRNet repository before replacing the `load_data.py` file.
-- Replace the file before running subsequent cells to avoid compatibility issues.
 
 For further questions or issues, refer to the GitHub repository or contact the project contributors.
