@@ -14,7 +14,7 @@ This project focuses on optimizing and deploying a real-time AI model for Licens
 
 3. **Replace `load_data.py` File**:
    - After cloning, replace the `LPRNET_PYTORCH/data/load_data.py` file in the cloned repository with the updated version.
-   - The updated `load_data.py` can be found in the GitHub link provided in the report.
+   - The updated `load_data.py` can be found in this GitHub repo.
 
 4. **Run All Cells**:
    - Run all cells in the notebook **in order** to execute the full pipeline.
