@@ -1,7 +1,3 @@
-Here’s the updated **README** with the correct instructions:
-
----
-
 # Real-Time AI Model Optimization and Deployment
 
 This project focuses on optimizing and deploying a real-time AI model for License Plate Recognition (LPR). The pipeline includes model pruning, quantization, and graph-level optimizations using TVM, AutoTVM, and fine-tuning techniques to achieve reduced inference time and model size while maintaining accuracy.
